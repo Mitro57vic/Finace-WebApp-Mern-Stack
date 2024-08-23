@@ -4,7 +4,7 @@ meinem Programm gitignore fixe, da es dort einen Fehler gibt.
 
 Was ist Gitignore und was macht es in meinem Programm?
 
-Aus meinen Recherchen konnte ich feststellen, dass in der Gitignore Datei festgelegt wird welche Dateien vom Programm ignoriert werden sollen. So sieht mein gitignore file aus: 
+Aus meinen Recherchen konnte ich feststellen, dass in der Gitignore Datei festgelegt wird welche Dateien vom Programm ind Git ignoriert werden sollen. So sieht mein gitignore file aus: 
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
@@ -30,6 +30,12 @@ yarn-debug.log*
 yarn-error.log*
 
 
-In der Gitignore file ist mir /node_modules direkt aufgefallen, da ich in meinem Programm node_modules verwende und somit es nicht ignoriert werden kann. Ich habe mich dann weiter damit beschäftigt um zu sehen ob das wirklich Probleme gemacht hat.
+In der Gitignore file ist mir /node_modules direkt aufgefallen und dachte das dies problem gemacht hat. Ich habe mich dann weiter damit beschäftigt um zu sehen ob das Probleme gemacht hat. Ich habe dann gelesen, dass man node modules aus verschiedenen gründne in git ignoriert:
+
+Der Ordner node_modules enthält alle Abhängigkeiten (Packages), die für dein Projekt installiert wurden. Dieser Ordner kann sehr groß sein und enthält Dateien, die durch die Installation von npm oder yarn jederzeit wiederhergestellt werden können. Das Versionieren von node_modules bringt mehrere Nachteile mit sich:
+
+Speicherplatz und Performance: Das Hinzufügen von node_modules zu Git bläht dein Repository unnötig auf und macht es langsamer.
+Plattformabhängigkeit: Einige Dateien in node_modules sind möglicherweise plattformspezifisch und können auf verschiedenen Betriebssystemen zu Problemen führen.
+Wiederholbarkeit: Alle benötigten Abhängigkeiten sind in der Datei package.json und package-lock.json (oder yarn.lock) festgehalten. Jeder, der dein Projekt klont, kann einfach npm install ausführen, um exakt die gleichen Abhängigkeiten zu installieren.
 
 
