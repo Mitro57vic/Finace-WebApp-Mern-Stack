@@ -1,3 +1,35 @@
 Als ich im terminal tailwindcss und postcss installieren wollte in unserem Programm mit diesem command "npm i -D tailwindcss postcss autoprefixer", hat mir das Terminal angzeigt, dass es viele probleme gibt mit den packages: 156 vulnerabilities (1 low, 125 moderate, 25 high, 5 critical)
 Dann hat mich Herr Lauk drauf hingewiesen, dass ich mit diesen Packages so arbeiten kann, aber es viele probleme geben kann und ich eventuell andere Versionen brauche für dieses Projekt. Herr Lauk hat mir einen hinweisen gegeben, dass ich mich mit gitignore befassen soll und in
 meinem Programm gitignore fixe, da es dort einen Fehler gibt.
+
+Was ist Gitignore und was macht es in meinem Programm?
+
+Aus meinen Recherchen konnte ich feststellen, dass in der Gitignore Datei festgelegt wird welche Dateien vom Programm ignoriert werden sollen. So sieht mein gitignore file aus: 
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.DS_Store
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+
+In der Gitignore file ist mir /node_modules direkt aufgefallen, da ich in meinem Programm node_modules verwende und somit es nicht ignoriert werden kann. Ich habe mich dann weiter damit beschäftigt um zu sehen ob das wirklich Probleme gemacht hat.
+
+
