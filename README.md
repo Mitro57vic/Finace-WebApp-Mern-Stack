@@ -37,18 +37,22 @@ Technologien: MongoDB, Express.js, React Native, Node.js, Chart.js für Diagramm
 
 
 
+
+
 ### 1.2 User Stories
 
-| US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
-| ---- | --------------- | ---- | ---------------------------------- |
-| 1    |       Muss         |   funktional   | Als User möchte ich,  |
-| 2    |       Muss         |   funktional   | Als User möchte ich,   |
-| 3    |       Muss         |   funktional   | Als User möchte ich,   |
-| 4    |       Muss         |   funktional   | Als User möchte ich, |
-| 5    |       Muss         |   funktional   | Als User möchte ich,  |
-| 6    |       Muss         |   funktional   | Als User möchte ich,  |
-| 7    |       Muss         |   funktional   | Als User möchte ich,  |
-| 8    |       Muss         |   funktional   | Als User möchte ich,   |
+| US-№ | Verbindlichkeit | Typ          | Beschreibung                                                                 |
+| ---- | --------------- | ------------ | ---------------------------------------------------------------------------- |
+| 1    | Muss            | funktional   | Als Benutzer möchte ich meine Ausgaben und Einnahmen schnell und einfach hinzufügen können, um einen Überblick über mein Geld zu behalten. |
+| 2    | Muss            | funktional   | Als Benutzer möchte ich meine Ausgaben in Kategorien wie "Essen", "Miete" und "Unterhaltung" aufteilen, damit ich sehe, wofür mein Geld ausgegeben wird. |
+| 3    | Muss            | funktional   | Als Benutzer möchte ich ein monatliches Budget festlegen können, um meine Ausgaben besser zu kontrollieren. |
+| 4    | Muss            | funktional   | Als Benutzer möchte ich Ziele für das Sparen festlegen können, damit ich für grössere Anschaffungen oder Notfälle planen kann. |
+| 5    | Muss            | funktional   | Als Benutzer möchte ich Benachrichtigungen für Rechnungen erhalten, damit ich keine Zahlungen vergesse. |
+| 6    | Muss            | funktional   | Als Benutzer möchte ich Diagramme sehen können, die meine Einnahmen und Ausgaben darstellen, um meine Finanzen besser zu verstehen. |
+| 7    | Muss            | funktional   | Als Benutzer möchte ich regelmässig wiederkehrende Zahlungen (wie Miete) automatisch hinzufügen lassen, damit ich nicht jedes Mal daran denken muss. |
+| 8    | Muss            | funktional   | Als Benutzer möchte ich benutzerdefinierte Kategorien erstellen können, damit die App auf meine Bedürfnisse passt. |
+
+
 
 
 
