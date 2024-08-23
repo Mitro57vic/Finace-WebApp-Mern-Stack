@@ -10,9 +10,9 @@ Filip Mitrovic, Cedric Tuma, Raul Gilardoni und Kenan Bajramovic
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
 |   23.08.2024    | 0.0.1   |  Wir haben uns für ein Finance Webapp entschieden zu implementieren mit Mern Stack und uns darüber informiert. Wir haben begonnen Visual Studio zu Einrichten für unser Projekt.|
-|      | 0.0.2   |  |
-|      | 0.0.3   |   |
-|       | 0.0.4   |  |
+|   30.08.2024   | 0.0.2   |  |
+|  13.09.2024    | 0.0.3   |   |
+|   20.09.2024    | 0.0.4   |  |
 |      | 0.0.5   |   |
 |       | 1.0.0   |  |
 
