@@ -39,3 +39,4 @@ Plattformabhängigkeit: Einige Dateien in node_modules sind möglicherweise plat
 Wiederholbarkeit: Alle benötigten Abhängigkeiten sind in der Datei package.json und package-lock.json (oder yarn.lock) festgehalten. Jeder, der dein Projekt klont, kann einfach npm install ausführen, um exakt die gleichen Abhängigkeiten zu installieren.
 
 
+Herr Lauk meinte, dass es einen Fehler bei /coverage hat habe es bis jetzt nicht herausgefunden. Ich habe aber versucht es umzuschreiben in **/coverage damit der ordner clients und server damit einbezogen sind.
