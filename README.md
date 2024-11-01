@@ -53,6 +53,7 @@ Technologien: MongoDB, Express.js, React Native, Node.js, Chart.js für Diagramm
 | 6    | Muss            | funktional   | Als Benutzer möchte ich Diagramme sehen können, die meine Einnahmen und Ausgaben darstellen, um meine Finanzen besser zu verstehen. |
 | 7    | Muss            | funktional   | Als Benutzer möchte ich regelmässig wiederkehrende Zahlungen (wie Miete) automatisch hinzufügen lassen, damit ich nicht jedes Mal daran denken muss. |
 | 8    | Muss            | funktional   | Als Benutzer möchte ich benutzerdefinierte Kategorien erstellen können, damit die App auf meine Bedürfnisse passt. |
+| 9    | Soll            | funktional   | Als Benutzer möchte ich eine Nachricht bekommen, sobald meine eingegebenen Rechnungen bezahlt werden müssen. |
 
 
 
@@ -80,7 +81,7 @@ Technologien: MongoDB, Express.js, React Native, Node.js, Chart.js für Diagramm
 | 7.1  |      Programm wird geöffnet        |    Miete    |    Die Miete wird nun automatisch jeden Monat hinzugefügt.             |
 | 8.1  |      Programm wird geöffnet        |    Kategorie    |   Neue Kategorie wurde erstellt.               |
 | 8.2  |      Programm wird geöffnet        |    Geld in die neue Kategorie    |  Es wird nun bei den anderen Ausgaben/Einnahmen mit dem richtigen Namen angezeigt.                |
-
+| 9.1  |      Programm wird geöffnet        |    Rechnung eintragen    |  Es wird eine Nachricht gesendet, sobald ich meine Rechnung bezahlen muss.               |
 
 ### 1.4 Diagramme
 
@@ -161,6 +162,7 @@ Für das Projekt "Personal Finance Web App" haben wir den MERN Stack gewählt, d
 | 7.1  |   01.11.24   |   Funktioniert  |    Filip Mitrovic    |
 | 8.1  |   01.11.24   |   Funktioniert  |    Filip Mitrovic    |
 | 8.2  |   01.11.24   |   Funktioniert  |   Kenan Bajramovic   |
+| 9.1  |   01.11.24   |   Funktioniert nicht |   Kenan Bajramovic   |
 
 
 `Fazit:`
