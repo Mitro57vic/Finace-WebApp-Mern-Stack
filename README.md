@@ -9,12 +9,12 @@ Filip Mitrovic, Cedric Tuma, Raul Gilardoni und Kenan Bajramovic
 
 | Datum | Version | Zusammenfassung                                              |
 | ----- | ------- | ------------------------------------------------------------ |
-|   23.08.2024    | 0.0.1   |  Wir haben uns für ein Finance Webapp entschieden zu implementieren mit Mern Stack und uns darüber informiert. Wir haben begonnen Visual Studio zu Einrichten für unser Projekt. Bei der Einrichtung sind wir auf viele Problemen zugestossen, aber haben auch viel dazugelernt. Die Konfiguartion ist bis jetzt ohne Erfolg.|
-|   30.08.2024   | 0.0.2   | Wir haben es nun geschafft Visual Studio richtig einzurichten und haben schon etwas programmieren begonnen. Wir konnten somit schon mal die Grundstruktur erstellen und sehen, wie es etwa aussieht. |
-|  13.09.2024    | 0.0.3   |   |
-|   20.09.2024    | 0.0.4   |  |
-|   27.09.2024   | 0.0.5   |   |
-|   01.11.2024    | 1.0.0   |  |
+|   23.08.2024    | 0.0.1   |  Wir haben uns für ein Finance Webapp entschieden zu implementieren mit Mern Stack und uns darüber informiert. Wir haben begonnen Visual Studio zu Einrichten für unser Projekt. Bei der Einrichtung sind wir auf viele Problemen zugestossen, aber haben auch viel dazugelernt. Die Konfiguartion ist bis jetzt ohne Erfolg. Die Projektdokumentation und das Layout wurden erstellt.|
+|   30.08.2024   | 0.0.2   | Wir haben es nun geschafft Visual Studio richtig einzurichten und haben schon etwas programmieren begonnen. Wir konnten somit schon mal die Grundstruktur erstellen und sehen, wie es etwa aussieht. Die Projektdokumentation wurde Angefangen. |
+|  13.09.2024    | 0.0.3   | Wir haben nun die Optionen für die Eingaben erstellt. Zudem haben wir wieder an der Projektdokummentation gearbeitet. |
+|   20.09.2024    | 0.0.4   | Wir haben das Kreisdiagramm erstellt und wir konnten es zum ersten mal austesten. Zudem wurde die Projektdokumentation einmal komplett überarbeitet und Fehler wurden behoben. |
+|   27.09.2024   | 0.0.5   | Wir haben nun die Speicherung erstellt und alles restliche inkl. Feinschliff fertiggestellt. Die Projektdokumentation wurde fast fertiggestellt.  |
+|   01.11.2024    | 1.0.0   | Wie haben die Projektdokumentation fertiggestellt und die Portfolios gemacht.  |
 
 
 ## 1 Informieren
