@@ -114,21 +114,25 @@ Für das Projekt "Personal Finance Web App" haben wir den MERN Stack gewählt, d
 
 
 
-
 ## 5 Kontrollieren
 
 ### 5.1 Testprotokoll
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |   01.11.24   |   Funktioniert  |   Kenan Bajramovic     |
-| 2.1  |  01.11.24    |   Funktioniert  |   Kenan Bajramovic     |
-| 3.1  |   01.11.24   |   Funktioniert  |   Kenan Bajramovic     |
-| 4.1  |   01.11.24    |   Funktioniert  |   Kenan Bajramovic     |
-| 5.1  |   01.11.24    |   Funktioniert  |   Kenan Bajramovic     |
-| 6.1  |   01.11.24   |   Funktioniert  |   Filip Mitrovic     |
-| 7.1  |   01.11.24    |   Funktioniert  |   Filip Mitrovic     |
+| 1.1  |   01.11.24   |   Funktioniert  |   Kenan Bajramovic   |
+| 1.2  |  01.11.24    |   Funktioniert  |   Kenan Bajramovic   |
+| 1.3  |   01.11.24   |   Funktioniert  |   Kenan Bajramovic   |
+| 2.1  |   01.11.24   |   Funktioniert  |   Kenan Bajramovic   |
+| 2.2  |   01.11.24   |   Funktioniert  |   Kenan Bajramovic   |
+| 3.1  |   01.11.24   |   Funktioniert  |    Filip Mitrovic    |
+| 3.2  |   01.11.24   |   Funktioniert  |    Filip Mitrovic    |
+| 4.1  |   01.11.24   |   Funktioniert  |    Filip Mitrovic    |
+| 5.1  |   01.11.24   |   Funktioniert  |    Filip Mitrovic    |
+| 6.1  |   01.11.24   |   Funktioniert  |    Filip Mitrovic    |
+| 7.1  |   01.11.24   |   Funktioniert  |    Filip Mitrovic    |
 | 8.1  |   01.11.24   |   Funktioniert  |    Filip Mitrovic    |
+| 8.2  |   01.11.24   |   Funktioniert  |   Kenan Bajramovic   |
 
 
 `Fazit:`
