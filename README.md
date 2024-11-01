@@ -93,17 +93,17 @@ Technologien: MongoDB, Express.js, React Native, Node.js, Chart.js für Diagramm
 | AP-№ | Zuständig | Geplante Zeit | Beschreibung |
 |------|-----------|---------------|--------------|
 | 1    | Cedric    | 120 Minuten   | Grundstruktur der App erstellen (Initiale MongoDB-Datenbank, Express.js Setup, Node.js Servereinrichtung) |
-| 2    | Tuma      | 90 Minuten    | Benutzerregistrierung und -authentifizierung (Backend-Implementierung mit JWT für Sicherheit) |
+| 2    | Cedric    | 90 Minuten    | Benutzerregistrierung und -authentifizierung (Backend-Implementierung mit JWT für Sicherheit) |
 | 3    | Raul      | 120 Minuten   | Frontend-Setup mit React Native, Layout und Navigationsstruktur der App erstellen |
 | 4    | Filip     | 90 Minuten    | Kategorien für Einnahmen und Ausgaben erstellen, API für das Hinzufügen und Abrufen von Transaktionen |
 | 5    | Kenan     | 120 Minuten   | Monatsbudgetierung und Zielverfolgung, Endpunkte für Budget und Ziele hinzufügen |
 | 6    | Cedric    | 60 Minuten    | Frontend-Komponenten für das Hinzufügen von Ausgaben und Einnahmen implementieren |
-| 7    | Tuma      | 90 Minuten    | Backend für Kategorienverwaltung und Benutzerdefinierte Kategorien entwickeln |
+| 7    | Cedric    | 90 Minuten    | Backend für Kategorienverwaltung und Benutzerdefinierte Kategorien entwickeln |
 | 8    | Raul      | 90 Minuten    | Frontend für Budget- und Zielsetzung mit Progress-Tracking erstellen |
 | 9    | Filip     | 120 Minuten   | Push-Benachrichtigungen für Rechnungen und Zahlungstermine (Integration mit Firebase) |
 | 10   | Kenan     | 120 Minuten   | Diagramme zur Darstellung der Finanzen (Integration von Chart.js und Frontend-Visualisierung) |
 | 11   | Cedric    | 60 Minuten    | Funktion für automatische, regelmäßig wiederkehrende Zahlungen (wie Miete) entwickeln |
-| 12   | Tuma      | 60 Minuten    | Testing und Validierung der API und Endpunkte |
+| 12   | Cedric    | 60 Minuten    | Testing und Validierung der API und Endpunkte |
 | 13   | Raul      | 90 Minuten    | Testing und Validierung der Benutzeroberfläche und Funktionalität |
 | 14   | Filip     | 90 Minuten    | Dokumentation des Codes und API-Beschreibungen für die Entwickler und zukünftige Wartung |
 | 15   | Kenan     | 60 Minuten    | Finaler Testlauf, Debugging und Vorbereitungen für die Präsentation |
@@ -118,9 +118,25 @@ Für das Projekt "Personal Finance Web App" haben wir den MERN Stack gewählt, d
 
 ## 4 Realisieren
 
-| AP-№ | Datum | Zuständig | geplante Zeit | tatsächliche Zeit |
-| ---- | ----- | --------- | ------------- | ----------------- |
-| 1.A   |        |                |  60          |       60       |
+
+| AP-№ | Datum       | Zuständig | geplante Zeit | tatsächliche Zeit |
+| ---- | ----------- | --------- | ------------- | ----------------- |
+| 1.A  | 30.08.2024  | Cedric    | 120           | 150               |
+| 2.A  | 13.09.2024  | Cedric    | 90            | 60                |
+| 3.A  | 20.09.2024  | Raul      | 120           | 90                |
+| 4.A  | 27.09.2024  | Filip     | 90            | 120               |
+| 5.A  | 01.11.2024  | Kenan     | 120           | 150               |
+| 6.A  | 23.08.2024  | Cedric    | 60            | 90                |
+| 7.A  | 13.09.2024  | Cedric    | 90            | 120               |
+| 8.A  | 20.09.2024  | Raul      | 90            | 60                |
+| 9.A  | 27.09.2024  | Filip     | 120           | 90                |
+| 10.A | 01.11.2024  | Kenan     | 120           | 90                |
+| 11.A | 23.08.2024  | Cedric    | 60            | 30                |
+| 12.A | 13.09.2024  | Cedric    | 60            | 90                |
+| 13.A | 20.09.2024  | Raul      | 90            | 120               |
+| 14.A | 27.09.2024  | Filip     | 90            | 60                |
+| 15.A | 01.11.2024  | Kenan     | 60            | 90                |
+
 
 
 
