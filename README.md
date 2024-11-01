@@ -103,7 +103,7 @@ Technologien: MongoDB, Express.js, React Native, Node.js, Chart.js für Diagramm
 
 ## 3 Entscheiden
 
-
+Für das Projekt "Personal Finance Web App" haben wir den MERN Stack gewählt, da er optimal auf die Anforderungen passt. MongoDB als NoSQL-Datenbank ermöglicht die flexible Speicherung von Finanzdaten wie Einnahmen, Ausgaben und Sparzielen. Express.js unterstützt die effiziente Kommunikation zwischen Frontend und Backend, was schnelle Ladezeiten ermöglicht. React Native erlaubt es uns, eine plattformübergreifende App für iOS und Android zu entwickeln und so eine breite Nutzerschaft anzusprechen. Node.js sorgt dafür, dass die Anwendung auch bei vielen gleichzeitigen Anfragen performant bleibt. Zudem lassen sich mit Chart.js Diagramme und Analysen visuell darstellen, und Firebase ermöglicht Push-Benachrichtigungen für Zahlungserinnerungen. Der MERN Stack bietet uns somit eine ideale Kombination aus Flexibilität, Skalierbarkeit und Benutzerfreundlichkeit für diese Finanz-App.
 
 
 ## 4 Realisieren
