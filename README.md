@@ -67,9 +67,9 @@ Technologien: MongoDB, Express.js, React Native, Node.js, Chart.js für Diagramm
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |      Programm wird geöffnet        |    Ausgaben & Einnahmen    |                  |
-| 1.1  |      Programm wird geöffnet        |        |                  |
-| 1.1  |      Programm wird geöffnet        |        |                  |
+| 1.1  |      Programm wird geöffnet        |    Einnahmen    |        Detaillierte Ansicht der Einnahmen          |
+| 1.1  |      Programm wird geöffnet        |    Ausgaben     |        Detaillierte Ansicht der Ausgaben           |
+| 1.1  |      Programm wird geöffnet        |    Einnahmen & Ausgaben    |                  |
 | 1.1  |      Programm wird geöffnet        |        |                  |
 | 1.1  |      Programm wird geöffnet        |        |                  |
 | 1.1  |      Programm wird geöffnet        |        |                  |
