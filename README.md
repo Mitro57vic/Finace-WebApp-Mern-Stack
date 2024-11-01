@@ -85,6 +85,7 @@ Technologien: MongoDB, Express.js, React Native, Node.js, Chart.js für Diagramm
 ### 1.4 Diagramme
 
 
+![FinanceWebapp_Usecase](https://github.com/user-attachments/assets/d559da99-57a4-4909-bc5e-7e69baf2ddcb)
 
 
 ## 2 Planen
