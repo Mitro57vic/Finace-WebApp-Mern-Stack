@@ -120,15 +120,15 @@ Für das Projekt "Personal Finance Web App" haben wir den MERN Stack gewählt, d
 
 | TC-№ | Datum | Resultat | Tester |
 | ---- | ----- | -------- | ------ |
-| 1.1  |      |   Funktioniert  |        |
-| 2.1  |      |   Funktioniert  |        |
-| 3.1  |      |   Funktioniert  |        |
-| 4.1  |       |   Funktioniert  |        |
-| 5.1  |       |   Funktioniert  |        |
-| 6.1  |      |   Funktioniert  |        |
-| 7.1  |       |   Funktioniert  |        |
-| 8.1  |      |   Funktioniert  |        |
+| 1.1  |   01.11.24   |   Funktioniert  |   Kenan Bajramovic     |
+| 2.1  |  01.11.24    |   Funktioniert  |   Kenan Bajramovic     |
+| 3.1  |   01.11.24   |   Funktioniert  |   Kenan Bajramovic     |
+| 4.1  |   01.11.24    |   Funktioniert  |   Kenan Bajramovic     |
+| 5.1  |   01.11.24    |   Funktioniert  |   Kenan Bajramovic     |
+| 6.1  |   01.11.24   |   Funktioniert  |   Filip Mitrovic     |
+| 7.1  |   01.11.24    |   Funktioniert  |   Filip Mitrovic     |
+| 8.1  |   01.11.24   |   Funktioniert  |    Filip Mitrovic    |
 
 
 `Fazit:`
-Das Projekt ist äußerst erfolgreich verlaufen, alle Ziele wurden erreicht. Das Programm funktioniert einwandfrei und ermöglicht es den Benutzern, sowohl Text als auch Bilder zu verschlüsseln und wieder zu entschlüsseln.
+Das Projekt ist äusserst erfolgreich verlaufen, alle Ziele wurden erreicht. Das Programm funktioniert einwandfrei und ermöglicht es den Benutzern, sowohl Text als auch Bilder zu verschlüsseln und wieder zu entschlüsseln.
