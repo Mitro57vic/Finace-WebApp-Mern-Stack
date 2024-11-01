@@ -79,7 +79,7 @@ Technologien: MongoDB, Express.js, React Native, Node.js, Chart.js für Diagramm
 | 6.1  |      Programm wird geöffnet        |    Beträge    |   Das Diagramm zeigt an, für wsa ich geld ausgebe und von wo ich es einnehme.               |
 | 7.1  |      Programm wird geöffnet        |    Miete    |    Die Miete wird nun automatisch jeden Monat hinzugefügt.             |
 | 8.1  |      Programm wird geöffnet        |    Kategorie    |   Neue Kategorie wurde erstellt.               |
-| 1.1  |      Programm wird geöffnet        |    Geld in die neue Kategorie    |  Es wird nun bei den anderen Ausgaben/Einnahmen mit dem richtigen Namen angezeigt.                |
+| 8.2  |      Programm wird geöffnet        |    Geld in die neue Kategorie    |  Es wird nun bei den anderen Ausgaben/Einnahmen mit dem richtigen Namen angezeigt.                |
 
 
 ### 1.4 Diagramme
