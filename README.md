@@ -67,22 +67,19 @@ Technologien: MongoDB, Express.js, React Native, Node.js, Chart.js für Diagramm
 
 | TC-№ | Ausgangslage | Eingabe | Erwartete Ausgabe |
 | ---- | ------------ | ------- | ----------------- |
-| 1.1  |      Programm wird geöffnet        |    Einnahmen    |        Detaillierte Ansicht der Einnahmen          |
-| 1.1  |      Programm wird geöffnet        |    Ausgaben     |        Detaillierte Ansicht der Ausgaben           |
-| 1.1  |      Programm wird geöffnet        |    Einnahmen & Ausgaben    |                  |
-| 1.1  |      Programm wird geöffnet        |        |                  |
-| 1.1  |      Programm wird geöffnet        |        |                  |
-| 1.1  |      Programm wird geöffnet        |        |                  |
-| 1.1  |      Programm wird geöffnet        |        |                  |
-| 1.1  |      Programm wird geöffnet        |        |                  |
-| 1.1  |      Programm wird geöffnet        |        |                  |
-| 1.1  |      Programm wird geöffnet        |        |                  |
-| 1.1  |      Programm wird geöffnet        |        |                  |
-| 1.1  |      Programm wird geöffnet        |        |                  |
-| 1.1  |      Programm wird geöffnet        |        |                  |
-| 1.1  |      Programm wird geöffnet        |        |                  |
-| 1.1  |      Programm wird geöffnet        |        |                  |
-
+| 1.1  |      Programm wird geöffnet        |    Einnahmen    |        Detaillierte Ansicht der Einnahmen.          |
+| 1.2  |      Programm wird geöffnet        |    Ausgaben     |        Detaillierte Ansicht der Ausgaben.           |
+| 1.3  |      Programm wird geöffnet        |    Einnahmen & Ausgaben    |    Einnahmen und Ausgaben werden zusammen angezeigt, so dass man ein budget sieht.             |
+| 2.1  |      Programm wird geöffnet        |    Kategorie Essen und Menge an Geld    |    Das Programm zeigt mir an, wie viel ich für Essen ausgegeben habe.              |
+| 2.2  |      Programm wird geöffnet        |    Verschiedene Kategorien und Mengen an Geld    |   Das Programm zeigt mir im Kreisdiagramm an, wie viel ich für was ausgebe.               |
+| 3.1  |      Programm wird geöffnet        |    Alle Einkommens und Ausgabens Daten    |   Es wird angezeigt, wie viel man für was ausgibt und woher das Geld kommt.               |
+| 3.2  |      Programm wird geöffnet        |    (bezogen auf 3.1) Daten ändern    |    Die Daten wurden geändert und ich habe nun ein eigenes Budget erstellt.              |
+| 4.1  |      Programm wird geöffnet        |    Menge die gespaart werden soll    |    Die gespaarte Menge wird in das Budget einberechnet.              |
+| 5.1  |      Programm wird geöffnet        |    Rechnungsdatum eingeben    |   Benachrichtigung wenn die Rechnung fällig ist.               |
+| 6.1  |      Programm wird geöffnet        |    Beträge    |   Das Diagramm zeigt an, für wsa ich geld ausgebe und von wo ich es einnehme.               |
+| 7.1  |      Programm wird geöffnet        |    Miete    |    Die Miete wird nun automatisch jeden Monat hinzugefügt.             |
+| 8.1  |      Programm wird geöffnet        |    Kategorie    |   Neue Kategorie wurde erstellt.               |
+| 1.1  |      Programm wird geöffnet        |    Geld in die neue Kategorie    |  Es wird nun bei den anderen Ausgaben/Einnahmen mit dem richtigen Namen angezeigt.                |
 
 
 ### 1.4 Diagramme
