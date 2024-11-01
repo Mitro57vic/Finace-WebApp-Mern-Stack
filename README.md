@@ -102,7 +102,7 @@ Technologien: MongoDB, Express.js, React Native, Node.js, Chart.js für Diagramm
 | 8    | Raul      | 90 Minuten    | Frontend für Budget- und Zielsetzung mit Progress-Tracking erstellen |
 | 9    | Filip     | 120 Minuten   | Push-Benachrichtigungen für Rechnungen und Zahlungstermine (Integration mit Firebase) |
 | 10   | Kenan     | 120 Minuten   | Diagramme zur Darstellung der Finanzen (Integration von Chart.js und Frontend-Visualisierung) |
-| 11   | Cedric    | 60 Minuten    | Funktion für automatische, regelmäßig wiederkehrende Zahlungen (wie Miete) entwickeln |
+| 11   | Cedric    | 60 Minuten    | Funktion für automatische, regelmässig wiederkehrende Zahlungen (wie Miete) entwickeln |
 | 12   | Cedric    | 60 Minuten    | Testing und Validierung der API und Endpunkte |
 | 13   | Raul      | 90 Minuten    | Testing und Validierung der Benutzeroberfläche und Funktionalität |
 | 14   | Filip     | 90 Minuten    | Dokumentation des Codes und API-Beschreibungen für die Entwickler und zukünftige Wartung |
